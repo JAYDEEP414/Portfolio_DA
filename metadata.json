@@ -1,0 +1,8 @@
+{
+  "name": "Jaydeep Sutar Portfolio",
+  "description": "4D animated interactive personal portfolio for Jaydeep Sutar, Data Analyst & Power BI Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
