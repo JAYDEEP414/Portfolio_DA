@@ -201,10 +201,6 @@ Relevant Coursework:
 
 I'm open to opportunities in **Data Analytics, Business Intelligence, Power BI, and SQL-focused roles**.
 
-📧 **Email:** [Your Email](#)
-💼 **LinkedIn:** [(https://www.linkedin.com/in/jaydeep-sutar-74143b371)](#)
-🐙 **GitHub:** [View my repositories](#)
-
 ---
 
 ### ⭐ If you find my projects useful, consider giving them a star!
